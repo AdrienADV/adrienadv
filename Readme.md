@@ -2,7 +2,7 @@
 
 I'm a React & Node.js developer passionate about building products!
 
-After two years of working as a React Native developer in a work-study program, I'm now looking for a VIE starting in September 2025 — ideally in Amsterdam 🙃
+After two years of working as a React Native developer in a work-study program, **I'm now looking for a VIE starting in September 2025** — ideally in Amsterdam 🙃
 
 My goal: keep growing as a dev, while improving my communication and product design skills.
 
