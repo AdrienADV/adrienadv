@@ -1,15 +1,13 @@
 # Hi, I'm Adrien 👋
 
-I'm a React & Node.js developer passionate about building products!
-
-After two years of working as a React Native developer in a work-study program, **I'm now looking for a VIE starting in September 2025** 🙃
-
-My goal: keep growing as a dev, while improving my communication and product design skills.
+I'm a freelance web & mobile developer specialized in React, Node.js, and Capacitor.
+I love building products that go from **idea → design → code → users**
 
 ## 👨‍💻 What I work with
 
 ![](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=fff&style=flat)
 ![](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
